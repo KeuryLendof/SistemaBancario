@@ -1,0 +1,13 @@
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.exe
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.deps.json
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.runtimeconfig.json
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.runtimeconfig.dev.json
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.dll
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.pdb
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.AssemblyInfo.cs
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.dll
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.pdb
+C:\Users\lendo\source\repos\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.genruntimeconfig.cache
